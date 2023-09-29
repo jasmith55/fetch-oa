@@ -5,11 +5,11 @@ To run this website, ensure you have the proper dependincies installed. These ar
 
 To create the model, run the following:
 
-# python modelGeneration.py
+> python modelGeneration.py
 
 Then, to create and host the website, run the following:
 
-# python frontEnd.py
+> python frontEnd.py
 
 This will run a graph that displays the machine learning model's predictions in a Chart using Chart.js
 
